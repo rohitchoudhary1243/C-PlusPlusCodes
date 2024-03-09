@@ -5,7 +5,7 @@ int moneyinterest(int money, float interest = 1.04)
 {
     return money * interest;
 }
-int vipInterest(int money, float interest = 1.1)
+int vipInterest(int money, float interest = 1.1) // default argument
 {
     return money * interest;
 }
