@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-template <class T>
+template <class T> /* this is the template and the template name is T
+ we can use same data type for all variables  in a class  calling by an object  through a template name */
 class vector
 {
 public:
