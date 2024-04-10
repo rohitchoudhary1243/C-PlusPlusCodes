@@ -11,6 +11,7 @@ public:
     }
     void display();
 };
+// member function template
 template <class d>
 void printData<d>::display()
 {
