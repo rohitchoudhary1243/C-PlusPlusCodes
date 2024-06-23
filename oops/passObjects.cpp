@@ -30,6 +30,7 @@ int main()
     c1.setData(2, 3);
     c2.setData(3, 4);
     c3.setDataBySum(c1, c2); // passing objects as function arguments
+    // passing string values through objects
     c1.print(n1);
     c2.print(n2);
     c3.print(n3);
